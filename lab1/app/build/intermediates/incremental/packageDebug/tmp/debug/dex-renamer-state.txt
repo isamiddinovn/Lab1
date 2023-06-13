@@ -1,0 +1,13 @@
+#Sun May 14 23:12:26 MSK 2023
+base.0=F\:\\CMP\\lab1-assignment-shapes-skeleton\\lab1-assignment-shapes-skeleton\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=F\:\\CMP\\lab1-assignment-shapes-skeleton\\lab1-assignment-shapes-skeleton\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=F\:\\CMP\\lab1-assignment-shapes-skeleton\\lab1-assignment-shapes-skeleton\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=F\:\\CMP\\lab1-assignment-shapes-skeleton\\lab1-assignment-shapes-skeleton\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=11/classes.dex
+path.3=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
